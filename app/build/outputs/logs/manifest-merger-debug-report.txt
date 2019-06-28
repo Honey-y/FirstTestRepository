@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/61a72fe969a848a7e727240c418fcf13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1009d58b61c4217fdbf38600dc3898fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/22c5186e42faad91b700138af5c2e67e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/ecb835b5cc3e7c6d532c04b1cb0acacb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/081794cb9ece0b8f18b3987e5dd78296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/2a8950d3294a5ecef1d0fffda0be6e04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/6f7a08b46aa872775e3106c0b8f41df2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/3c0e7ba07337acf685221772bfb37ac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/f7bf7f49d894bcba24f059db55fa8ea8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/dc7460ada66c0c0fda3bb947f6d22c1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/43e22479c54554f46eb3f5e0157fcc34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/3d74e142204b47117cb171798b35b0a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1bf32041821f665b04f0dd8a5d032fca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/63f29cf32c4101aa833e9b73a0129ad8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/81d2366d9dba0ccdd9a0286a49382e8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a38fc7a4f7ef657ee66827d8fb8ada10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/19ad0bbc4c351c4313e85555933e79b5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/278e8021166e9fc07d0e7b90cc6964ef/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/273c87672710da852e002c7768a03ab8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/c0567eb8521a80a079ac9fdcba85c65f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1467ad9656f12f0b4831c8da0ee804f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/bf48e4fe2ae6940f18bf5a3cb6633cfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/54f576ec6761225e61deddb60c00078a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a45f44d3954e6bb7ab539014740489b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/6b1933c93778d6cd6f978ab87cf9a943/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a3b604dbb79264e84e592835895f6cca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/fc73518eda7d910a561f21e6255a7a30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/8b97332bf907a8138f19b9dba6b6c81f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:6:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/22c5186e42faad91b700138af5c2e67e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/22c5186e42faad91b700138af5c2e67e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/19ad0bbc4c351c4313e85555933e79b5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/19ad0bbc4c351c4313e85555933e79b5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/278e8021166e9fc07d0e7b90cc6964ef/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/278e8021166e9fc07d0e7b90cc6964ef/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/19ad0bbc4c351c4313e85555933e79b5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:12:9-40
+service#com.yangbowen.mytestwork.book.BookService
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:14:9-23:19
+	android:process
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:16:13-38
+	android:name
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:15:13-45
+intent-filter#action:name:com.yangbowen.mytestwork.book.BookService+category:name:android.intent.category.DEFAULT
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:18:13-22:29
+action#com.yangbowen.mytestwork.book.BookService
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:19:17-84
+	android:name
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:19:25-81
+category#android.intent.category.DEFAULT
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:21:27-73
+activity#com.yangbowen.mytestwork.MainActivity
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/61a72fe969a848a7e727240c418fcf13/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/61a72fe969a848a7e727240c418fcf13/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1009d58b61c4217fdbf38600dc3898fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1009d58b61c4217fdbf38600dc3898fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/22c5186e42faad91b700138af5c2e67e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/22c5186e42faad91b700138af5c2e67e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/ecb835b5cc3e7c6d532c04b1cb0acacb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/ecb835b5cc3e7c6d532c04b1cb0acacb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/081794cb9ece0b8f18b3987e5dd78296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/081794cb9ece0b8f18b3987e5dd78296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/2a8950d3294a5ecef1d0fffda0be6e04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/2a8950d3294a5ecef1d0fffda0be6e04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/6f7a08b46aa872775e3106c0b8f41df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/6f7a08b46aa872775e3106c0b8f41df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/3c0e7ba07337acf685221772bfb37ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/3c0e7ba07337acf685221772bfb37ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/f7bf7f49d894bcba24f059db55fa8ea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/f7bf7f49d894bcba24f059db55fa8ea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/dc7460ada66c0c0fda3bb947f6d22c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/dc7460ada66c0c0fda3bb947f6d22c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/43e22479c54554f46eb3f5e0157fcc34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/43e22479c54554f46eb3f5e0157fcc34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/3d74e142204b47117cb171798b35b0a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/3d74e142204b47117cb171798b35b0a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1bf32041821f665b04f0dd8a5d032fca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1bf32041821f665b04f0dd8a5d032fca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/63f29cf32c4101aa833e9b73a0129ad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/63f29cf32c4101aa833e9b73a0129ad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/81d2366d9dba0ccdd9a0286a49382e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/81d2366d9dba0ccdd9a0286a49382e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a38fc7a4f7ef657ee66827d8fb8ada10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a38fc7a4f7ef657ee66827d8fb8ada10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/19ad0bbc4c351c4313e85555933e79b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/19ad0bbc4c351c4313e85555933e79b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/278e8021166e9fc07d0e7b90cc6964ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/278e8021166e9fc07d0e7b90cc6964ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/273c87672710da852e002c7768a03ab8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/273c87672710da852e002c7768a03ab8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/c0567eb8521a80a079ac9fdcba85c65f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/c0567eb8521a80a079ac9fdcba85c65f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1467ad9656f12f0b4831c8da0ee804f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/1467ad9656f12f0b4831c8da0ee804f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/bf48e4fe2ae6940f18bf5a3cb6633cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/bf48e4fe2ae6940f18bf5a3cb6633cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/54f576ec6761225e61deddb60c00078a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/54f576ec6761225e61deddb60c00078a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a45f44d3954e6bb7ab539014740489b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a45f44d3954e6bb7ab539014740489b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/6b1933c93778d6cd6f978ab87cf9a943/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/6b1933c93778d6cd6f978ab87cf9a943/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a3b604dbb79264e84e592835895f6cca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/a3b604dbb79264e84e592835895f6cca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/fc73518eda7d910a561f21e6255a7a30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/fc73518eda7d910a561f21e6255a7a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/8b97332bf907a8138f19b9dba6b6c81f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yangbowen/.gradle/caches/transforms-2/files-2.1/8b97332bf907a8138f19b9dba6b6c81f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangbowen/AndroidStudioProjects/MyTestWork/app/src/main/AndroidManifest.xml
