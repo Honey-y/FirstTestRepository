@@ -19,6 +19,7 @@ import java.util.List;
 
 /**
  * @author yangbowen
+ * @Data
  */
 public class MainActivity extends AppCompatActivity {
 
