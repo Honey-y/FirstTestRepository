@@ -18,10 +18,8 @@ import com.yangbowen.mytestwork.book.IBookInterface;
 import java.util.List;
 
 /**
-
-
-*/
-
+ * @author yangbowen
+ */
 public class MainActivity extends AppCompatActivity {
 
     private TextView mResult;
